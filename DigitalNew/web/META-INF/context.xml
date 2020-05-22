@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context antiJARLocking="true" path="/LabWeb_Digital">
+  <Environment name="HOSTNAME" type="java.lang.String" value="localhost"/>
+  <Environment name="PORT" type="java.lang.String" value="1433"/>
+  <Environment name="DATABASENAME" type="java.lang.String" value="digital"/>
+  <Environment name="image" type="java.lang.String" value="images"/>
+</Context>

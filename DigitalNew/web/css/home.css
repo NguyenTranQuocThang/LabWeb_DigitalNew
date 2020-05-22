@@ -1,0 +1,94 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Feb 6, 2020, 8:54:39 PM
+    Author     : thang
+*/
+
+
+body{
+    margin: 0px; 
+    background-color: #E7E7E7;
+    
+}
+.background{
+    margin-left: auto;
+    margin-right: auto;
+    background-image: url(../images/bg.jpg);
+    font-family: sans-serif;
+    width: 885px;
+    height: auto; 
+}
+.separate{
+    display: flex;
+}
+.content{
+    padding: 20px;
+    padding-left: 80px;
+    width: 480px;
+   
+    height: auto;
+    border-right: dotted 2px;
+    border-color: #d2d2d2;
+}
+.block{
+    border-bottom: 1px solid #d2d2d2;
+}
+.title{
+    font-family: sans-serif;
+}
+.title h3{
+    margin: 0px;
+    color: white;
+    margin-left: 80px;
+    
+}
+.title h4{
+    margin: 0px;
+    color: #3b5452;
+}
+
+.title a{
+    text-decoration: none;
+    color: #3b5452;
+}
+.descript p{
+    font-size: 12px;
+}
+
+.time{
+    padding-top: 10px;
+    float: right;
+    color: #3b5452;
+    font-size: 10px;
+}
+.imageContent{
+    max-height: 150px;
+    max-width: 355px;
+}
+.imageContentSearch{
+    max-width:250px;
+    max-height: 150px;
+}
+.image1{
+    float: left;
+    background-image: url(../images/comment.gif);
+    height: 9px;
+    width: 9px;
+}
+.image2{
+    float: left;
+    background-image: url(../images/timeicon.gif);
+    height: 9px;
+    width: 9px;
+}
+.error h4{
+    margin-left: 80px;
+    color: red;
+}
+
+
+
